@@ -1,5 +1,3 @@
-<h1 align="center">badmosa / README<span>.md</span></h1>
-
 <p align="center">
   <img src="./assets/profile-card.svg" alt="Profile card" width="100%" />
 </p>

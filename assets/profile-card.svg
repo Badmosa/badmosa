@@ -4222,7 +4222,7 @@ circle{transform-box:fill-box;transform-origin:center;animation:m 12s ease-in-ou
 <circle class="c d2" cx="51.5" cy="283.7" r="0.9" style="--x:-59px;--y:96px"/>
 <circle class="c d1" cx="76.2" cy="261.9" r="0.9" style="--x:85px;--y:-118px"/>
 <circle class="c d0" cx="219.4" cy="286.1" r="0.9" style="--x:110px;--y:90px"/>
-<text x="174" y="492" font-size="10" fill="#8794b3" text-anchor="middle" letter-spacing="1">PYTHON / SQL / POWER BI</text>
+<text x="174" y="492" font-size="10" fill="#8794b3" text-anchor="middle" letter-spacing="1">LEARNING PYTHON / SQL / POWER BI BUILDING</text>
 <text x="352" y="90" class="hd">SYSTEM.INFO</text>
 <circle cx="786" cy="86" r="4" fill="#ef4444" style="animation:lv 2s ease-in-out infinite"/>
 <text x="796" y="90" font-size="10" font-weight="700" fill="#e6edf7">LIVE</text>
